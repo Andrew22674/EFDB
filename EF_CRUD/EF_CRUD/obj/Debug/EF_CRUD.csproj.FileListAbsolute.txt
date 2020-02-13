@@ -1,0 +1,14 @@
+D:\Documents\VS Projects\EF_CRUD\EF_CRUD\bin\Debug\EF_CRUD.exe.config
+D:\Documents\VS Projects\EF_CRUD\EF_CRUD\bin\Debug\EF_CRUD.exe
+D:\Documents\VS Projects\EF_CRUD\EF_CRUD\bin\Debug\EF_CRUD.pdb
+D:\Documents\VS Projects\EF_CRUD\EF_CRUD\bin\Debug\EntityFramework.dll
+D:\Documents\VS Projects\EF_CRUD\EF_CRUD\bin\Debug\EntityFramework.SqlServer.dll
+D:\Documents\VS Projects\EF_CRUD\EF_CRUD\bin\Debug\EntityFramework.xml
+D:\Documents\VS Projects\EF_CRUD\EF_CRUD\bin\Debug\EntityFramework.SqlServer.xml
+D:\Documents\VS Projects\EF_CRUD\EF_CRUD\obj\Debug\EF_CRUD.csprojAssemblyReference.cache
+D:\Documents\VS Projects\EF_CRUD\EF_CRUD\obj\Debug\EF_CRUD.Form1.resources
+D:\Documents\VS Projects\EF_CRUD\EF_CRUD\obj\Debug\EF_CRUD.Properties.Resources.resources
+D:\Documents\VS Projects\EF_CRUD\EF_CRUD\obj\Debug\EF_CRUD.csproj.GenerateResource.cache
+D:\Documents\VS Projects\EF_CRUD\EF_CRUD\obj\Debug\EF_CRUD.csproj.CopyComplete
+D:\Documents\VS Projects\EF_CRUD\EF_CRUD\obj\Debug\EF_CRUD.exe
+D:\Documents\VS Projects\EF_CRUD\EF_CRUD\obj\Debug\EF_CRUD.pdb
